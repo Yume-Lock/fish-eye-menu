@@ -1,6 +1,7 @@
 # fisheye menu
 
 interactive fisheye menu for nielsen's 10 usability heuristics
+![image](./fish-eye.png)
 
 ## tech stack
 
